@@ -51,7 +51,8 @@ The notebook is structured as follows:
 
 
 
-### Model Architectures tried are LSTM, CNN. The results of the model training are unsatisfactory in each of the case and I am letting it be due to lack of time. 
+## Results
+ Model Architectures tried are LSTM, CNN. The results of the model training are unsatisfactory in both cases. As of now I am letting it be due to lack of time.  
 
 
 ## Acknowledgments
