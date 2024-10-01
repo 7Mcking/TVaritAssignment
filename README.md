@@ -51,10 +51,19 @@ The notebook is structured as follows:
 
 
 
-## Results
+## Future Work
+
+1. **Hyperparameter Tuning**: Experiment with different hyperparameters for the models to improve performance.
+2. **Feature Engineering**: Explore additional features that could be derived from the existing data to enhance model accuracy.
+3. **Model Optimization**: Try other advanced models and optimization techniques to achieve better results.
+4. **Cross-Validation**: Implement cross-validation to ensure the robustness of the model.
+5. **Data Augmentation**: Consider augmenting the dataset if possible to provide more training data for the models.
+
+## Conclusion
+
  Model Architectures tried are LSTM, CNN. The results of the model training are unsatisfactory in both cases. As of now I am letting it be due to lack of time.  
 
+This notebook provides a comprehensive workflow for analyzing and processing temperature measurement data. While the initial model results were not satisfactory, there are several avenues for future work that could lead to improved performance. The steps outlined in this notebook serve as a solid foundation for further experimentation and optimization.
 
 ## Acknowledgments
-
 - Thanks to TVarit for providing the dataset and the assignment.
